@@ -1,1 +1,2 @@
-This is the first commit.
+When downloading the installer, the browser may give a "suspicious file" warning. You should have the option to download anyway. 
+After that, when you open the installer, Windows will more than likely give you a similar warning. If a screen of that nature pops up, simply hit "more info" and "run anyway". 
